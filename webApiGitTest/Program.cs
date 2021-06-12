@@ -24,5 +24,37 @@ namespace webApiGitTest
                 });
         
         ankit19919231923123
+ public static IHostBuilder CreateHostBuilderssss(string[] args) =>
+            Host.CreateDefaultBuilder(args)
+                .ConfigureWebHostDefaults(webBuilder =>
+                {
+                    webBuilder.UseStartup<Startup>();
+                });
+        
+        ankit19919231923123
+ public static IHostBuilder CreateHostBuilderssss(string[] args) =>
+            Host.CreateDefaultBuilder(args)
+                .ConfigureWebHostDefaults(webBuilder =>
+                {
+                    webBuilder.UseStartup<Startup>();
+                });
+        
+        ankit19919231923123
+ public static IHostBuilder CreateHostBuilderssss(string[] args) =>
+            Host.CreateDefaultBuilder(args)
+                .ConfigureWebHostDefaults(webBuilder =>
+                {
+                    webBuilder.UseStartup<Startup>();
+                });
+        
+        ankit19919231923123
+ public static IHostBuilder CreateHostBuilderssss(string[] args) =>
+            Host.CreateDefaultBuilder(args)
+                .ConfigureWebHostDefaults(webBuilder =>
+                {
+                    webBuilder.UseStartup<Startup>();
+                });
+        
+        ankit19919231923123
     }
 }
